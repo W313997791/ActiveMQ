@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_mq_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_mq_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_mq_topic_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_mq_topic_consumer_not_persistent/pom.xml" />
+        <option value="$PROJECT_DIR$/boot_mq_topic_consumer_persistent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="jetbrains.communicator.idea.IdProvider" IDEtalkID="1204D1988599617B85C3D89D3F344B1E" />
+</project>

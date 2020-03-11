@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
+  jms: #ָ�����ӵ��Ƕ���(Queue)��������(Topic)
+    pub-sub-domain: false #false�������,true��������
+
+#�������ӵĶ�����
+myQueueName: springboot-activemq-queue
+
+
